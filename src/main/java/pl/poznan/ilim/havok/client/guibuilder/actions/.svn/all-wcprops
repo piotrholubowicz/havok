@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/!svn/ver/1285/havok/trunk/src/main/java/pl/poznan/ilim/havok/client/guibuilder/actions
+END
+ActionsEventHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/!svn/ver/1285/havok/trunk/src/main/java/pl/poznan/ilim/havok/client/guibuilder/actions/ActionsEventHandler.java
+END
+ActionsController.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/!svn/ver/1285/havok/trunk/src/main/java/pl/poznan/ilim/havok/client/guibuilder/actions/ActionsController.java
+END
+ActionsTab.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/!svn/ver/1285/havok/trunk/src/main/java/pl/poznan/ilim/havok/client/guibuilder/actions/ActionsTab.java
+END
+ClearActionsClickedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/!svn/ver/1285/havok/trunk/src/main/java/pl/poznan/ilim/havok/client/guibuilder/actions/ClearActionsClickedEvent.java
+END
+ActionRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/!svn/ver/1285/havok/trunk/src/main/java/pl/poznan/ilim/havok/client/guibuilder/actions/ActionRecord.java
+END
+BarcodeScannedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/!svn/ver/1285/havok/trunk/src/main/java/pl/poznan/ilim/havok/client/guibuilder/actions/BarcodeScannedEvent.java
+END

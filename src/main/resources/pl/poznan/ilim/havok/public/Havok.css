@@ -1,0 +1,52 @@
+body {
+	background-color: #FFFFFF;
+	background-image: url('images/background-gradient.png');
+	background-repeat: repeat-x;
+}
+
+.label-title {
+	font: 30px Georgia;
+	color: #70A6D2;
+}
+
+.label-header-medium {
+	font: 12px Georgia;
+	padding-left: 2px;
+}
+
+
+/* GWT generated */
+.panel {
+	background: red;
+	color: red;
+}
+
+.body {
+	background-color: #7AD4FF;
+}
+
+.MessageBoxHeader {
+	background-color: #000000;
+	color: #F7F7F7;
+	font-size: 10px;
+}
+
+.MessageBoxContent {
+	background-color: #222222;
+	color: white;
+	font-size: 12px;
+}
+
+.Title {
+	font-family: Impact, Charcoal, sans-serif;
+	color: black;
+	font-size: 2.2em; 
+}
+
+.ActionsTab {
+	font-size: 24pt; 
+}
+
+
+
+

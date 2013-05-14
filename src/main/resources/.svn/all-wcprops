@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/!svn/ver/1285/havok/trunk/src/main/resources
+END
+hibernate.reveng.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/!svn/ver/1285/havok/trunk/src/main/resources/hibernate.reveng.xml
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/!svn/ver/1285/havok/trunk/src/main/resources/log4j.properties
+END
+hibernate.cfg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/!svn/ver/1285/havok/trunk/src/main/resources/hibernate.cfg.xml
+END

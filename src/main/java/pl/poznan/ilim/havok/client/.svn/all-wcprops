@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/!svn/ver/1285/havok/trunk/src/main/java/pl/poznan/ilim/havok/client
+END
+StatusesUpdatedEventHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/!svn/ver/1285/havok/trunk/src/main/java/pl/poznan/ilim/havok/client/StatusesUpdatedEventHandler.java
+END
+StatusesUpdatedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/!svn/ver/1285/havok/trunk/src/main/java/pl/poznan/ilim/havok/client/StatusesUpdatedEvent.java
+END
+ObservationsUpdatedEventHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/!svn/ver/1285/havok/trunk/src/main/java/pl/poznan/ilim/havok/client/ObservationsUpdatedEventHandler.java
+END
+ObservationsUpdatedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/!svn/ver/1285/havok/trunk/src/main/java/pl/poznan/ilim/havok/client/ObservationsUpdatedEvent.java
+END
+ItemsUpdatedEventHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/!svn/ver/1285/havok/trunk/src/main/java/pl/poznan/ilim/havok/client/ItemsUpdatedEventHandler.java
+END
+ItemsUpdatedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/!svn/ver/1285/havok/trunk/src/main/java/pl/poznan/ilim/havok/client/ItemsUpdatedEvent.java
+END
+Start.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/!svn/ver/1285/havok/trunk/src/main/java/pl/poznan/ilim/havok/client/Start.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/!svn/ver/1285/havok/trunk/src/main/java/pl/poznan/ilim/havok/server
+END
+ActionServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/!svn/ver/1285/havok/trunk/src/main/java/pl/poznan/ilim/havok/server/ActionServiceImpl.java
+END
+ItemServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/!svn/ver/1285/havok/trunk/src/main/java/pl/poznan/ilim/havok/server/ItemServiceImpl.java
+END
+StatusServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/!svn/ver/1285/havok/trunk/src/main/java/pl/poznan/ilim/havok/server/StatusServiceImpl.java
+END
+ObservationServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/!svn/ver/1285/havok/trunk/src/main/java/pl/poznan/ilim/havok/server/ObservationServiceImpl.java
+END
