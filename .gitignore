@@ -1,3 +1,9 @@
 /target
 /.settings
 /.svn
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
